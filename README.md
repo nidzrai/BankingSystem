@@ -14,7 +14,7 @@ The application is structured as follows:
 ## Setup
 To set up the application, follow these steps:
 
-1. Clone the repository:  git clone [https://github.com/nidzrai/cleanCode.git](https://github.com/nidzrai/BankingSystem.git)
+1. Clone the repository:  git clone [Banking System clean code](https://github.com/nidzrai/BankingSystem.git)
 2. Navigate to the project directory:
 cd codeVyasaBankingSysClean
 3. Install dependencies (if any):
